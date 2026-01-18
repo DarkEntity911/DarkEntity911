@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Harshit Bisht] 👋 
+# Hi there, I'm Harshit Bisht 👋 
 ### Game Developer | GDG Core Team | Open Source Contributor
 
 ---
@@ -14,9 +14,9 @@ Currently, I am expanding my portfolio with new projects, utilizing **C++ and C#
 ### 🛠️ Tech Stack & Skills
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io) ![C#](https://img.shields.io) ![Python](https://img.shields.io) ![SQL](https://img.shields.io) |
-| **Game Engines** | ![Pygame](https://img.shields.io) ![Unity](https://img.shields.io) |
-| **Community** | ![GDG](https://img.shields.io) ![GSSoC](https://img.shields.io) |
+| **Languages** | ![C++] ![C#] ![Python] ![SQL] |
+| **Game Engines** | ![Pygame] ![Unity] |
+| **Community** | ![GDG] ![GSSoC] |
 
 ---
 
