@@ -2,11 +2,6 @@
 # Hi there, I'm Harshit Bisht] 👋 
 ### Game Developer | GDG Core Team | Open Source Contributor
 
-<p align="left">
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-</p>
-
 ---
 
 ### 🕹️ About Me
@@ -38,10 +33,7 @@ Currently, I am expanding my portfolio with new projects, utilizing **C++ and C#
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app[YOUR_USERNAME]&show_icons=true&theme=radical" alt="Stats" height="150px"/>
-<img src="https://github-readme-stats.vercel.app[YOUR_USERNAME]&layout=compact&theme=radical" alt="Top Langs" height="150px"/>
+
 </p>
 <br>
 
