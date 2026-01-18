@@ -1,21 +1,49 @@
 # 💫 About Me:
-I am a passionate developer focused on creating immersive digital experiences. My journey in game development began with the creation of a 2D game using Python and Pygame, where I learned the fundamentals of physics, sprite animation, and game logic. Currently, I am expanding my portfolio with new game projects, utilizing my skills in C++ and C# to build more complex and engaging mechanics. 
-Beyond coding, I am a dedicated contributor to the tech ecosystem. I have a strong foundation in Python, C++, C#, and MySQL, allowing me to bridge the gap between creative game design and robust backend data management. 
-Leadership & Community Impact:
-I believe in the power of community. My experience as a Campus Ambassador allowed me to bridge the gap between industry and academia. Currently, I serve as a Core Team Member of the Google Developer Groups (GDG) on campus, where I help foster a culture of learning and innovation. My commitment to the developer community is further reflected in my role as a volunteer for GDG Gwalior, recognized by Google. 
-Certifications & Open Source:
-I am a lifelong learner with a track record of excellence, holding certifications from:
-Google (GDG Volunteer Recognition)
-GSSoC (GirlScript Summer of Code)
-Internshala
-LetsUpgrade
-PeerHub
-I am always looking for opportunities to collaborate on innovative game projects or community-driven tech initiatives.
-Quick Skills Breakdown (For your Sidebar or Footer)
-Languages: C++, C#, Python, SQL
-Frameworks: Pygame, Unity (Current focus)
-Databases: MySQL
-Community: GDG Core Team, Campus Ambassadorship, Open Source Contributor<br>
+# Hi there, I'm Harshit Bisht] 👋 
+### Game Developer | GDG Core Team | Open Source Contributor
+
+<p align="left">
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
+
+---
+
+### 🕹️ About Me
+I am a passionate developer focused on creating immersive digital experiences. My journey in game development began with building a **2D game using Python and Pygame**, where I mastered physics, sprite animation, and game logic. 
+
+Currently, I am expanding my portfolio with new projects, utilizing **C++ and C#** to build more complex mechanics. Beyond coding, I bridge the gap between creative game design and robust backend management with **MySQL**.
+
+---
+
+### 🛠️ Tech Stack & Skills
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![C++](https://img.shields.io) ![C#](https://img.shields.io) ![Python](https://img.shields.io) ![SQL](https://img.shields.io) |
+| **Game Engines** | ![Pygame](https://img.shields.io) ![Unity](https://img.shields.io) |
+| **Community** | ![GDG](https://img.shields.io) ![GSSoC](https://img.shields.io) |
+
+---
+
+### 🌟 Leadership & Community Impact
+*   **Core Team Member** @ Google Developer Groups (GDG) On-Campus.
+*   **Volunteer** @ GDG Gwalior (Recognized by Google).
+*   **Campus Ambassador** – Bridging the gap between industry and academia.
+*   **Open Source** – Contributor at **GSSoC** (GirlScript Summer of Code).
+
+### 📜 Certifications
+*   **Google** (GDG Volunteer Recognition)
+*   **Internshala** & **LetsUpgrade** (Technical Proficiency)
+*   **PeerHub** (Development Excellence)
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app[YOUR_USERNAME]&show_icons=true&theme=radical" alt="Stats" height="150px"/>
+<img src="https://github-readme-stats.vercel.app[YOUR_USERNAME]&layout=compact&theme=radical" alt="Top Langs" height="150px"/>
+</p>
+<br>
 
 
 ## 🌐 Socials:
