@@ -15,7 +15,7 @@ Currently, I am expanding my portfolio with new projects, utilizing **C++ and C#
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Languages** | [C++] [C#] [Python] [SQL] |
-| **Game Engines** | [Pygame]![Unity] |
+| **Game Engines** | [Pygame] [Unity] |
 | **Community** | [GDG] [GSSoC] |
 
 ---
